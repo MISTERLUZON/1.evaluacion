@@ -1,0 +1,16 @@
+def operacion_2():
+  a=input("Dime un numero: ")
+  b=input("Dime otro numero: ")
+  c=raw_input("Que quieres hacer: ")
+  if (c=="S"):
+    print a+b
+  if (c=="R"):
+    print a-b
+  if (c=="M"):
+    print a*b
+  if (b==0):
+    print "La operacion no se puede hacer"  
+  else:  
+    if (c=="D"):
+      print a/b
+operacion_2()
