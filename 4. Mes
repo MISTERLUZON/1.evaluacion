@@ -1,0 +1,27 @@
+def mes():
+  mes=input("Introduce el nunmero del mes: ")
+  if (mes==1):
+    print "Es Enero"
+  if (mes==2):
+    print "Es Febrero"
+  if (mes==3):
+    print "Es Marzo"
+  if (mes==4):
+    print "Es Abril"
+  if (mes==5):
+    print "Es Mayo"
+  if (mes==6):
+    print "Es Junio"
+  if (mes==7):
+    print "Es Julio"
+  if (mes==8):
+    print "Es Agosto"
+  if (mes==9):
+    print "Es Septiembre"
+  if (mes==10):
+    print "Es Octubre"
+  if (mes==11):
+    print "Es Noviembre"
+  if (mes==12):
+    print "Es Diciembre"
+mes()
