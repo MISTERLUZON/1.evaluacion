@@ -1,0 +1,5 @@
+def iva():
+  a=input("Cuanto vale el producto: ")
+  b=a+a*16/100
+  print "Tienes que pagar: ",b
+iva()
