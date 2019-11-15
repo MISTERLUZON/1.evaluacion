@@ -1,0 +1,31 @@
+def date():
+  a=input("What day is it: ")
+  b=input("What month is it: ")
+  c=input("What year is it: ")
+  print a ,"de"
+  if (b==1):
+    print "January", "de", c
+  if (b==2):
+    print "February", "de", c
+  if (b==3):
+    print "March", "de", c
+  if (b==4):
+    print "April", "de", c
+  if (b==5):
+    print "Mayo", "de", c
+  if (b==6):
+    print "June", "de", c
+  if (b==7):
+    print "July", "de", c
+  if (b==8):
+    print "August", "de", c
+  if (b==9):
+    print "September", "de", c
+  if (b==10):
+    print "October", "de", c
+  if (b==11):
+    print "November", "de", c
+  if (b==12):
+    print "December", "de", c
+
+date()
