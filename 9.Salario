@@ -1,0 +1,7 @@
+def salario():
+  a=input ("Cuantas horas has trabajado: ")
+  if (a<40):
+    print a*30
+  else:
+    print 40*30+(a-40)*30*1.5
+salario()
