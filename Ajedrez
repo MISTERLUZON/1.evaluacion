@@ -1,0 +1,10 @@
+def ajedrez():
+  h=input("Dime de que altura quieres que sea : ")
+  a="*"
+  b=" "
+  for i in range (1,h+1):
+    if (i%2==0):
+      print (b+a)*(h/2)
+    else:
+      print (a+b)*(h/2)
+ajedrez()
