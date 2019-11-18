@@ -1,0 +1,8 @@
+def funcion_cantidad():
+  a=input("Dime un numero: ")
+  b=raw_input("Dime una palabra: ")
+  if(a==len(b)):
+    print "La palabra tiene esa cantidad de letras"
+  else:
+    print "La palabra no tiene esa cantidad de letras"
+funcion_cantidad()
