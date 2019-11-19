@@ -2,4 +2,5 @@ def anterior_siguiente():
   a=input("Dime un numero: ")
   print "Anteriores:", a-3, a-2, a-1
   print "Siguientes:", a+1, a+2, a+3
+
 anterior_siguiente()
