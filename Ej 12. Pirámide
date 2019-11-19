@@ -6,4 +6,4 @@ def piramide():
     c=(2*i)-1
     print ((h-i)*b)+(a*c)
     
-piramide ()
+piramide()
