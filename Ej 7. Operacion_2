@@ -13,4 +13,5 @@ def operacion_2():
   else:  
     if (c=="D"):
       print a/b
+      
 operacion_2()
