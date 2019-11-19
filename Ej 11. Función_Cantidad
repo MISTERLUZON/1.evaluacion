@@ -5,4 +5,5 @@ def funcion_cantidad():
     print "La palabra tiene esa cantidad de letras"
   else:
     print "La palabra no tiene esa cantidad de letras"
+    
 funcion_cantidad()
