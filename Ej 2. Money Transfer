@@ -1,4 +1,5 @@
 def money transfer():
   a=int(input("inserte una cantidad de dolares: "))
   print a*0.9
+  
 money transfer()
