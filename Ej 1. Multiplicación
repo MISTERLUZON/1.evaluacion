@@ -4,4 +4,5 @@ def multiplicacion():
   c=input("Escribe el tercer numero: ")
   d=input("Escribe el cuarto numero: ")
   print a*b*c*d
+  
 multiplicacion()
