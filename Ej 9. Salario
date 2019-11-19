@@ -4,4 +4,5 @@ def salario():
     print a*30
   else:
     print 40*30+(a-40)*30*1.5
+
 salario()
